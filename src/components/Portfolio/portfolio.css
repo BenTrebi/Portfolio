@@ -40,12 +40,25 @@
 }
 
 .portfolioBtn {
-  margin: 3rem 0;
+  margin: 2rem 0;
   padding: 0.5rem 2.5rem;
   border: none;
   background: white;
   border-radius: 2rem;
   font-size: 1rem;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 540px)  {
+  .portfolioImg {
+    width: 15rem;
+  }
+}
+
+@media screen and (max-width: 430px)  {
+  .portfolioImg {
+    width: 10rem;
+  }
 }
 
 
