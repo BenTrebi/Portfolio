@@ -57,9 +57,21 @@
   height: 1rem;
 }
 
+@media screen and (max-width:1025px) {
+  .bg {
+    height: 25rem;
+  }
+}
+
 @media screen and (max-width:840px) {
   .bg {
     height: 20rem;
+  }
+}
+
+@media screen and (max-width:540px) {
+  .bg {
+    height: 10rem;
   }
 }
 
@@ -69,7 +81,7 @@
   }
 }
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:390px) {
   .bg {
     height: 10rem;
   }
