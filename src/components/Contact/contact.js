@@ -5,6 +5,7 @@ import linkedinicon from '../../assets/linkedinicon.png'
 import emailjs from '@emailjs/browser';
 
 
+
 const Contact = ()  =>  {
   const form = useRef();
   const sendEmail = (e) => {
@@ -30,8 +31,12 @@ const Contact = ()  =>  {
           <textarea className='msg' rows='5' placeholder='Your Message' name='message'></textarea>
           <button type='submit' value='Send' className='submitBtn'>Submit</button>
           <div className='links'>
-            <img src={githubicon} alt='GitHubIcon' className='link'/>
-            <img src={linkedinicon} alt='LinkedInIcon' className='link'/>
+            <a href='https://github.com/BenTrebi' target='_blank'>
+              <img src={githubicon} alt='GitHubIcon' className='link'/>
+            </a>
+            <a href='https://www.linkedin.com/in/ben-trebilcock-1600591b9/' target='_blank'>
+              <img src={linkedinicon} alt='LinkedInIcon' className='link'/>
+            </a>
           </div>
         </form>
       </div>
