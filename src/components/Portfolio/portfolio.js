@@ -29,7 +29,6 @@ const Portfolio = ()  =>    {
         </a>
         </div>
       </div>
-      <button className="portfolioBtn">See More</button>
     </section>
   );
 }
