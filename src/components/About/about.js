@@ -8,7 +8,6 @@ const About = () => {
   return  (
     <section id='about'>
       <span className='aboutTitle'>About Me</span>
-      <span className='AboutDesc'> I am a passionate web designer... </span>
       <div className='aboutBars'>
         <div className='aboutBar'>
           <img src= {frontend} alt='Frontend' className='aboutBarImg' />
