@@ -37,6 +37,7 @@
   height: 20rem;
   margin: 0.5rem;
   max-width: 30rem;
+  cursor: pointer;
 }
 
 .portfolioBtn {
