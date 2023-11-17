@@ -12,14 +12,14 @@ const About = () => {
         <div className='aboutBar'>
           <img src= {frontend} alt='Frontend' className='aboutBarImg' />
           <div className='aboutBarText'>
-            <h2>Frontend Skills</h2>
+            <h2>Front end Skills</h2>
             <p>HTML5, CSS, JQuery, JavaScript, Bootstrap, ReactJS</p>
           </div>
         </div>
         <div className='aboutBar'>
           <img src={backend} alt='Backend' className='aboutBarImg' />
           <div className='aboutBarText'>
-            <h2>Backend Skills</h2>
+            <h2>Back end Skills</h2>
             <p>MySQL, MongoDB, Node, Express, Handlebars</p>
           </div>
         </div>
@@ -27,7 +27,7 @@ const About = () => {
           <img src= {polisci} alt='Political Science' className='aboutBarImg' />
           <div className='aboutBarText'>
             <h2>Other Skills</h2>
-            <p>Additionally, I have a bachelors degree in Political Science through which I gained valueable skills such as communication and teamwork.</p>
+            <p>Additionally, I have a bachelors degree in Political Science through which I gained valuable skills such as communication and teamwork.</p>
           </div>
         </div>
       </div>
