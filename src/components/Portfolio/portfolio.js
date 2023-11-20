@@ -18,11 +18,11 @@ const Portfolio = ()  =>    {
         <Card sx={{ maxWidth: 1000 }} className="card">
           <CardMedia component="img" alt="hometown classifieds" height="250" src={portfolio1} className="cardImg"/>
           <CardContent className="cardContent">
-            <Typography gutterBottom variant="h5" component='div'>
+            <Typography gutterBottom variant="h5" component='div' fontWeight={600} fontFamily='Poppins, sans-serif'>
               Hometown Classifieds
             </Typography>
-            <Typography variant="body2">
-            This web application is designed to act as an old style newspaper classifieds ads page for a local community to post and share items that they have for sale.
+            <Typography variant="body1" fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
+            This web application is designed to act as an old style newspaper classifieds ads page for community members to post and share items that they have for sale.
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
@@ -32,11 +32,11 @@ const Portfolio = ()  =>    {
         <Card sx={{ maxWidth: 1000 }} className="card">
           <CardMedia component="img" alt="shazingle" height="250" src={portfolio2} className="cardImg"/>
           <CardContent className="cardContent">
-            <Typography gutterBottom variant="h5" component='div'>
+            <Typography gutterBottom variant="h5" component='div' fontWeight={600} fontFamily='Poppins, sans-serif'>
               Shazingle
             </Typography>
-            <Typography variant="body2">
-            This is the first project of the code camp and we were assigned to use the coding skills we have learned so far to make a comprehensible webpage of our choice. As a group we decided to create a music application using the Shazam API by API Dojo.
+            <Typography variant="body1"  fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
+            In this first project of the code camp, and we were assigned to create a comprehensible webpage of our choice. Our group created a music application using the Shazam API by API Dojo.
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
@@ -46,10 +46,10 @@ const Portfolio = ()  =>    {
         <Card sx={{ maxWidth: 1000 }} className="card">
           <CardMedia component="img" alt="thinkSync" height="250" src={portfolio3} className="cardImg"/>
           <CardContent className="cardContent">
-            <Typography gutterBottom variant="h5" component='div'>
+            <Typography gutterBottom variant="h5" component='div' fontWeight={600} fontFamily='Poppins, sans-serif'>
               ThinkSync
             </Typography>
-            <Typography variant="body2">
+            <Typography variant="body1"  fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
             ThinkSync is a tool designed to help a team collaborate or an individual come to a decision. Anyone can use ThinkSync to dynamically come to a decision, however by signing up, users can save and review their data which opens the possibility of analyzing trends or recurring choices.
             It is built using React, MongoDB, Mongoose, Express, and Material Design for Bootstrap v5 CSS framework.
             </Typography>

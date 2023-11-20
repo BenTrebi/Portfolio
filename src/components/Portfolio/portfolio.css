@@ -27,6 +27,7 @@
 .card  {
   margin: 1rem 0;
   width: 40rem;
+  font-family: 'Poppins', sans-serif;
 }
 
 .cardImg  {
@@ -36,6 +37,7 @@
 .cardContent  {
   background: rgb(50,50,50);
   color: white;
+  font-family: 'Poppins', sans-serif;
 }
 
 .cardBtn  {
