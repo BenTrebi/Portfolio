@@ -27,7 +27,7 @@ const About = () => {
           <img src= {polisci} alt='Political Science' className='aboutBarImg' />
           <div className='aboutBarText'>
             <h2>Other Skills</h2>
-            <p>Additionally, I have a bachelors degree in Political Science through which I gained valuable skills such as communication and teamwork.</p>
+            <p>I received my bachelor's degree in political science from the University of Minnesota. In the process of completing this program, I gained valuable skills such as teamwork, communication, critical thinking, and problem-solving. </p>
           </div>
         </div>
       </div>
