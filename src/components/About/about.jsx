@@ -12,14 +12,14 @@ const About = () => {
         <div className='aboutBar'>
           <img src= {frontend} alt='Frontend' className='aboutBarImg' />
           <div className='aboutBarText'>
-            <h2>Front end Skills</h2>
+            <h2>Front End Skills</h2>
             <p>HTML5, CSS, JQuery, JavaScript, Bootstrap, ReactJS</p>
           </div>
         </div>
         <div className='aboutBar'>
           <img src={backend} alt='Backend' className='aboutBarImg' />
           <div className='aboutBarText'>
-            <h2>Back end Skills</h2>
+            <h2>Back End Skills</h2>
             <p>MySQL, MongoDB, Node, Express, Handlebars</p>
           </div>
         </div>
