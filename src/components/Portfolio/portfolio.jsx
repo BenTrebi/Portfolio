@@ -22,7 +22,7 @@ const Portfolio = ()  =>    {
               Hometown Classifieds
             </Typography>
             <Typography variant="body1" fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
-            This web application is designed to act as an old style newspaper classifieds ads page for community members to post and share items that they have for sale.
+            This web application is designed to act as a newspaper classified ads page for community members to post and share items they have for sale.
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
@@ -36,7 +36,7 @@ const Portfolio = ()  =>    {
               Shazingle
             </Typography>
             <Typography variant="body1"  fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
-            In this first project of the code camp, and we were assigned to create a comprehensible webpage of our choice. Our group created a music application using the Shazam API by API Dojo.
+            In this first project of the code camp our group created a music application using the Shazam API by API Dojo.
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
