@@ -6,7 +6,7 @@ It was built using React, Javascript, and CSS.
 After cloning the repo, simply run npm i in the root.
 
 ## Usage
-After installatiom, the script npm run start will initiate the program.
+After installation, the script npm run start will initiate the program.
 
 ## Licencse 
 [MIT](https://choosealicense.com/licenses/mit/)
