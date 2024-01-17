@@ -49,4 +49,7 @@
 .card {
   width: 20rem;
 }
+.cardMedia  {
+  object-fit: fill;
+}
 }
