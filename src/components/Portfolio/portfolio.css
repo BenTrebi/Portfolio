@@ -31,7 +31,8 @@
 }
 
 .cardImg  {
-  height: fit-content;
+  height: 100%;
+  width: 100%;
 }
 
 .cardContent  {
@@ -45,11 +46,9 @@
 }
 
 
+
 @media screen and (max-width: 720px)  {
 .card {
   width: 20rem;
-}
-.cardMedia  {
-  object-fit: fill;
 }
 }
