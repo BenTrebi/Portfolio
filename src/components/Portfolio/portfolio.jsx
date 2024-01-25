@@ -41,8 +41,8 @@ const Portfolio = ()  =>    {
               ThinkSync
             </Typography>
             <Typography variant="body1"  fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
-            ThinkSync is a tool designed to help a team collaborate or an individual come to a decision. Anyone can use ThinkSync to dynamically come to a decision, however by signing up, users can save and review their data which opens the possibility of analyzing trends or recurring choices.
-            It is built using React, MongoDB, Mongoose, Express, and Material Design for Bootstrap v5 CSS framework.
+            ThinkSync is a tool designed to help teams collaborate or an individual come to a decision. Users can save and review their data to analyze trends or recurring choices.
+            Technologies used: React, MongoDB, Mongoose, Express, and Material Design for Bootstrap. 
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
@@ -56,7 +56,8 @@ const Portfolio = ()  =>    {
               Hometown Classifieds
             </Typography>
             <Typography variant="body1" fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
-            This web application is designed to act as a newspaper classified ads page for community members to post and share items they have for sale.
+            This web application is designed to act as a newspaper classified ads page for community members to post and share items for sale.
+            Technologies used: HTML, Bootstrap, Node, MySQL, and Handlebars.
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
@@ -70,7 +71,8 @@ const Portfolio = ()  =>    {
               Shazingle
             </Typography>
             <Typography variant="body1"  fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
-            In this first project of the code camp our group created a music application using the Shazam API by API Dojo.
+            Shazingle is a music application using the Shazam API by API Dojo.
+            Technologies used: HTML, Shazam API, JQuery, Bootstrap,  howler.JS, bideo.JS, dayJS.
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
@@ -86,7 +88,7 @@ const Portfolio = ()  =>    {
             </Typography>
             <Typography variant="body1"  fontWeight={100} fontSize={15} fontFamily='Poppins, sans-serif'>
             This quiz application was built as a personal project in order to better understand React. 
-            It was built using React, Javascript, and CSS.
+            Technologies used: React, Javascript, and CSS.
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
