@@ -46,7 +46,7 @@ const Portfolio = ()  =>    {
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
-            <Button variant='outlined' size="small" href="https://github.com/BenTrebi/ThinkSync" target="_blank">View</Button>
+            <Button variant='outlined' size="small" href="https://thinksync-1e5fbc55e5f7.herokuapp.com" target="_blank">View</Button>
           </CardActions>
         </Card>
         <Card sx={{ maxWidth: 1000 }} className="card">
@@ -61,7 +61,7 @@ const Portfolio = ()  =>    {
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
-            <Button variant='outlined' size="small" href="https://github.com/Aidan-Windebank/hometown-classifieds" target="_blank">View</Button>
+            <Button variant='outlined' size="small" href="https://project2-hometown-classifieds-ab97edeca766.herokuapp.com" target="_blank">View</Button>
           </CardActions>
         </Card>
         <Card sx={{ maxWidth: 1000 }} className="card">
@@ -76,7 +76,7 @@ const Portfolio = ()  =>    {
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
-            <Button variant='outlined' size="small" href="https://github.com/toxicmix/group-project" target="_blank">View</Button>
+            <Button variant='outlined' size="small" href="https://toxicmix.github.io/group-project" target="_blank">View</Button>
           </CardActions>
         </Card>
         {toggle && (
@@ -92,7 +92,7 @@ const Portfolio = ()  =>    {
             </Typography>
           </CardContent>
           <CardActions className="cardBtn">
-            <Button variant='outlined' size="small" href="https://github.com/BenTrebi/shark-quiz" target="_blank">View</Button>
+            <Button variant='outlined' size="small" href="https://shark-quiz-5b65e4b290fa.herokuapp.com" target="_blank">View</Button>
           </CardActions>
         </Card>
         )}
